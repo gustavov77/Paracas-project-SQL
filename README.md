@@ -5,7 +5,7 @@ Proyecto de Modelamiento de Datos
 Tema: Gestión de Operaciones en una Planta de Ósmosis Inversa de Agua de Mar
 1. Contexto General del Caso
 
-La empresa ficticia AquaDesal Perú S.A. opera una planta desaladora de agua de mar mediante tecnología de ósmosis inversa ubicada en la costa peruana. La planta abastece agua potable a una ciudad costera y agua industrial a empresas mineras y energéticas.
+La empresa AquaDesal Perú S.A. opera una planta desaladora de agua de mar mediante tecnología de ósmosis inversa ubicada en la costa peruana. La planta abastece agua potable a una ciudad costera y agua industrial a empresas mineras y energéticas.
 
 En los últimos años, la organización ha tenido problemas relacionados con:
 
